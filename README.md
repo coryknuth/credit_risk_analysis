@@ -4,22 +4,22 @@ For this project we used a selection of 6 differrent types of machine learning m
 
 # Scores
 
-Oversampling Scores
+Oversampling Scores  
 <img src="https://github.com/coryknuth/credit_risk_analysis/blob/a2cd54440175f2e902851eafc062dc44b5b22f3a/screenshots/oversampling%20scores.png" width="800"/>
 
-SMOTE Oversampling Scores
+SMOTE Oversampling Scores  
 <img src="https://github.com/coryknuth/credit_risk_analysis/blob/a2cd54440175f2e902851eafc062dc44b5b22f3a/screenshots/smote%20oversampling%20score.png" width="800"/>
 
-Undersampling Scores
+Undersampling Scores  
 <img src="https://github.com/coryknuth/credit_risk_analysis/blob/a2cd54440175f2e902851eafc062dc44b5b22f3a/screenshots/undersampling%20scores.png" width="800"/>
 
-Combination Scores
+Combination Scores  
 <img src="https://github.com/coryknuth/credit_risk_analysis/blob/a2cd54440175f2e902851eafc062dc44b5b22f3a/screenshots/combination%20scores.png" width="800"/>
 
-Random Forest Scores
+Random Forest Scores  
 <img src="https://github.com/coryknuth/credit_risk_analysis/blob/a2cd54440175f2e902851eafc062dc44b5b22f3a/screenshots/random%20forest%20scores.png" width="800"/>
 
-Adaboost Scores
+Adaboost Scores  
 <img src="https://github.com/coryknuth/credit_risk_analysis/blob/a2cd54440175f2e902851eafc062dc44b5b22f3a/screenshots/adaboost%20scores.png" width="800"/>
 
 ## Balanced Accuracy Scores
